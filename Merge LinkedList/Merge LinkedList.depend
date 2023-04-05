@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1680632710 source:e:\cse225\c++\merge linkedlist\main.cpp
+	<iostream>
+	"linklist.h"
+
+1680632550 source:e:\cse225\c++\merge linkedlist\linklist.cpp
+	<iostream>
+	"linklist.h"
+
+1680632679 e:\cse225\c++\merge linkedlist\linklist.h
+
+1680632710 source:e:\cse225\c++ practice\cpp_practice\merge linkedlist\main.cpp
+	<iostream>
+	"linklist.h"
+
+1680632679 e:\cse225\c++ practice\cpp_practice\merge linkedlist\linklist.h
+
