@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680681161 source:c:\users\lib-605\desktop\zubair 2312106042\reverse linked list\main.cpp
+	<iostream>
+	"linkedlist.h"
+
+1680681263 source:c:\users\lib-605\desktop\zubair 2312106042\reverse linked list\linkedlist.cpp
+	<iostream>
+	"linkedlist.h"
+
+1680679890 c:\users\lib-605\desktop\zubair 2312106042\reverse linked list\linkedlist.h
+
