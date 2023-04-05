@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1680239260 source:e:\cse225\c++\link list\main.cpp
+	<iostream>
+	"LinkList.h"
+
+1680239656 source:e:\cse225\c++\link list\linklist.cpp
+	"LinkList.h"
+	<iostream>
+
+1680239476 e:\cse225\c++\link list\linklist.h
+
+1680378822 source:e:\cse225\c++ practice\link list\main.cpp
+	<iostream>
+	"LinkList.h"
+
+1680378804 e:\cse225\c++ practice\link list\linklist.h
+
+1680378804 source:e:\cse225\c++ practice\link list\linklist.cpp
+	"LinkList.h"
+	<iostream>
+
