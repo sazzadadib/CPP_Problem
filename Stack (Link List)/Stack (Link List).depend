@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680263728 source:e:\cse225\c++\stack (link list)\stacklinklist.cpp
+	"stackLinklist.h"
+	<iostream>
+
+1680263227 e:\cse225\c++\stack (link list)\stacklinklist.h
+
+1680263837 source:e:\cse225\c++\stack (link list)\main.cpp
+	<iostream>
+	"stackLinklist.h"
+
