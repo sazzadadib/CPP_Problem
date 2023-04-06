@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680823763 source:e:\cse225\c++\circular linked list\main.cpp
+	<iostream>
+	"circularLinkedList.h"
+
+1680821966 e:\cse225\c++\circular linked list\circularlinkedlist.h
+
+1680824576 source:e:\cse225\c++\circular linked list\circularlinkedlist.cpp
+	"circularLinkedList.h"
+	<iostream>
+
