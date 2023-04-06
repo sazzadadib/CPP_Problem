@@ -14,7 +14,7 @@ int main()
     cin >> s;
 
 
-    while(first<=mid && !found)
+    while(first<=last && !found)
     {
         if(arr[mid]>s)
         {
