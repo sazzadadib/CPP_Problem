@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1680789356 source:d:\sa\dubbly lined list\main.cpp
+	<iostream>
+	"doubly linkedlist.h"
+
+1680789356 source:d:\sa\dubbly lined list\doublyl linkedlist.cpp
+	"doubly linkedlist.h"
+	<iostream>
+
+1680789356 d:\sa\dubbly lined list\doubly linkedlist.h
+
+1680789356 source:d:\sa\doubly lined list\main.cpp
+	<iostream>
+	"doubly linkedlist.h"
+
+1680789356 d:\sa\doubly lined list\doubly linkedlist.h
+
