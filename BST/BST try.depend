@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684348324 source:e:\cse225\c++\bst try\bsttry.cpp
+	<iostream>
+	"bsttry.h"
+
+1684348143 e:\cse225\c++\bst try\bsttry.h
+
+1684348186 source:e:\cse225\c++\bst try\main.cpp
+	<iostream>
+	"bsttry.h"
+
+1684339570 e:\cse225\c++\bst try\bsttry.cpp
+	<iostream>
+	"bsttry.h"
+
