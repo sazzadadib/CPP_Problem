@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684350170 source:e:\cse225\c++\queue [array]\main.cpp
+	<iostream>
+	"queueArray.h"
+
+1684349940 source:e:\cse225\c++\queue [array]\queuearray.cpp
+	<iostream>
+	"queueArray.h"
+
+1684349363 e:\cse225\c++\queue [array]\queuearray.h
+
