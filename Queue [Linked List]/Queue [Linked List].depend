@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:e:\cse225\c++\queue [linked list]\main.cpp
+	<iostream>
+
+1684351680 source:e:\cse225\c++\queue [linked list]\queuelinkedlist.cpp
+	<iostream>
+	"queueLinkedlist.h"
+
+1684351046 e:\cse225\c++\queue [linked list]\queuelinkedlist.h
+
