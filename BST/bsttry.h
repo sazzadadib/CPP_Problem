@@ -21,6 +21,8 @@ public:
     void GetPredecessor(Node*, int&);
     void RetrieveItem(int);
     void RetrieveFunc(Node*,int);
+    bool isActuallyBST();
+    bool checkBST(Node*);
 };
 
 #endif // BSTTRY_H_INCLUDED

@@ -19,5 +19,16 @@ int main()
     obj1.RetrieveItem(7);
     obj1.RetrieveItem(5);
 
+
+    /*check whether the Binary Tree Node passed as parameter is actually a Binary-Search-Tree.*/
+
+    if(obj1.isActuallyBST()){
+        cout << "True"<<endl;
+    }
+    else{
+        cout << "False"<<endl;
+
+    }
+
     return 0;
 }

@@ -123,3 +123,24 @@ void bsttry :: RetrieveFunc(Node*  tree, int n){
         cout << "Item Found" <<endl;
     }
 }
+
+/* Write a recursive method to check whether the Binary Tree Node passed as a
+   parameter is actually a Binary-Search-Tree. The method takes a Node (root of the Binary Tree) as a
+   parameter and returns a boolean (true or false) value.  */
+
+bool bsttry :: isActuallyBST(){
+    return checkBST(root);
+}
+bool bsttry :: checkBST(Node* tree){
+    if (tree==NULL){
+        return true;
+    }
+    else if(tree->data<tree->left->data){
+        return false;
+    }
+    else if(tree->data>tree->right->data){
+        return false;
+    }
+
+    return (tree->left) && (tree->right);
+}
